@@ -1,11 +1,9 @@
 // & * sizeof ,
 #include<stdio.h>
-main()
-{
+main(){
 	int num=10;
-	
-// num++;
+	// num ++;
 	printf("%d\n",num++);
 	printf("%d",++num);
-//	printf("%d",sizeof(char));
+	//printf("%d",sizeof(char));
 }
